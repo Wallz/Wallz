@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### ⚙️ &nbsp;GitHub Stats
 -->
+### ⚙️ &nbsp;GitHub Stats
 <div align="center">
   <a href="https://github.com/Wallz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wallz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
