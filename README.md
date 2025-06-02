@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 <hr>  
 <div align="center">
   
- ![Snake animation](https://github.com/Wallz/Wallz/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Wallz/Wallz/blob/main/github-contribution-grid-snake.svg)
   
 </div> 
