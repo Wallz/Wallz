@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
+<h1 align="center">BINANCE ID: <bold>336 016 462</bold></h1>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=50 height=50>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=50 height=50>
