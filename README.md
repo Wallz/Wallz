@@ -22,22 +22,23 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallz&layout=compact&langs_count=16&theme=dark"/>
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
-  
-<hr>
-<div align="center">
-
+<!--
+ - 
+-<hr>
+-<div align="center">
+-
   ![Discord Presence](https://lanyard.cnrad.dev/api/216762282569498624)
-
 </div>
 <hr>
 <p align="center">
-  <a href="https://www.twitch.tv/Wallz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/1WallzRJ" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/##" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </p>  
-
+-
 <hr>  
 <div align="center">
-  
+  -
  ![Snake animation](https://github.com/Wallz/Wallz/blob/output/github-contribution-grid-snake.svg)
-  
+  -
 </div> 
+-->
