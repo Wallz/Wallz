@@ -45,11 +45,9 @@ Here are some ideas to get you started:
  <a href="https://discord.gg/ygGEUMVb5d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </p>  
 
- <!--
 <hr>  
 <div align="center">
-  -
+  
  ![Snake animation](https://github.com/Wallz/Wallz/blob/output/github-contribution-grid-snake.svg)
-  -
+  
 </div> 
--->
