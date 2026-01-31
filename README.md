@@ -35,14 +35,23 @@ Here are some ideas to get you started:
 </p>  
 <hr>  
 <div align="center">  
-  
+
+
 ![Code Badge](https://img.shields.io/badge/Project-L2J-red.svg?logo=github&logoColor=white)
+<br>
+![Code Badge](https://img.shields.io/badge/C++-purple?logo=cplusplus)
+![Code Badge](https://img.shields.io/badge/C%23-blue?logo=.net&logoColor=white)
+![Code Badge](https://img.shields.io/badge/Delphi%20XE7-red?logo=delphi)
+![Code Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+<br>
+
 ![Code Badge](https://img.shields.io/badge/MySQL-_5.7-orange.svg?logo=mysql&logoColor=white)
 ![Code Badge](https://img.shields.io/badge/Java-_8-blue.svg?logo=java&logoColor=white)
 ![Code Badge](https://img.shields.io/badge/Java-_17-blue.svg?logo=java&logoColor=white)
 ![Code Badge](https://img.shields.io/badge/Java-_22-blue.svg?logo=java&logoColor=white)
 ![Code Badge](https://img.shields.io/badge/Java-_24-blue.svg?logo=java&logoColor=white)
-![Code Badge](https://img.shields.io/badge/C++-purple?logo=c++)
+
+
   
   <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=50 height=50>
