@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <h1 align="center">BINANCE ID: <bold>336 016 462</bold></h1>
 
 <p align="center">
-<a href="https://discord.gg/ygGEUMVb5d" target="_blank"><img src="https://img.shields.io/discord/691934366980505611?logo=discord"></a></a><br>
 <a href="https://discord.gg/ygGEUMVb5d" target="_blank"><img src="https://discord.c99.nl/widget/theme-2/252624582593347586.png"></a><br>
   <a href="https://www.twitch.tv/1WallzRJ" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/ygGEUMVb5d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/ygGEUMVb5d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a><br>
+<a href="https://discord.gg/ygGEUMVb5d" target="_blank"><img src="https://img.shields.io/discord/691934366980505611?style=for-the-badge&logo=discord&logoColor=white&badge"></a></a><br>
 </p>  
 <hr>  
 <div align="center">  
@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ![Code Badge](https://img.shields.io/badge/Java-_17-blue.svg?logo=java&logoColor=white)
 ![Code Badge](https://img.shields.io/badge/Java-_22-blue.svg?logo=java&logoColor=white)
 ![Code Badge](https://img.shields.io/badge/Java-_24-blue.svg?logo=java&logoColor=white)
+![Code Badge](https://img.shields.io/badge/C++-purple?logo=c++)
   
   <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=50 height=50>
