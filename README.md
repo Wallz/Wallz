@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 ![Code Badge](https://img.shields.io/badge/Delphi%20XE7-red?logo=delphi)
 ![Code Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 <br>
-
 ![Code Badge](https://img.shields.io/badge/MySQL-_5.7-orange.svg?logo=mysql&logoColor=white)
 ![Code Badge](https://img.shields.io/badge/Java-_8-blue.svg?logo=java&logoColor=white)
 ![Code Badge](https://img.shields.io/badge/Java-_17-blue.svg?logo=java&logoColor=white)
