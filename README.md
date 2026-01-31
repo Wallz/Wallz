@@ -1,87 +1,59 @@
-# Wallz
+## Hi there 👋
+<!--
+**Wallz/Wallz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Desenvolvedor FullStack
+Here are some ideas to get you started:
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2055%20mins-blue?style=flat)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" width=50 height=50>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width=50 height=50>
+### ⚙️ &nbsp;GitHub Stats
+-->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+<div align="center">
+  <a href="https://github.com/Wallz">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wallz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img height="300em" width="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallz&layout=compact&langs_count=50&theme=dark&include_all_commits=true&count_private=true"/>
 
-**🐱 My GitHub Data** 
+</div>
 
-> 📦 3.2 MB Used in GitHub's Storage 
- > 
-> 🏆 309 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 46 Public Repositories 
- > 
-> 🔑 74 Private Repositories 
- > 
-**I'm an Early 🐤** 
+<hr>
+<h1 align="center">BINANCE ID: <bold>336 016 462</bold></h1>
 
-```text
-🌞 Morning                545 commits         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-🌆 Daytime                1116 commits        █████████████░░░░░░░░░░░░   50.11 % 
-🌃 Evening                549 commits         ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Tuesday                  433 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Wednesday                483 commits         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-Thursday                 402 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Friday                   346 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Saturday                 130 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Sunday                   123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Markdown                 3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-TypeScript               2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-C#                       50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Go                       38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-XAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 11 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-TDD-Backend              2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-Eletron-Paulista-Frontend2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-ai-member-chat           1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-TesteApp                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Eletron-Paulista-Backend 1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-
-💻 Operating System: 
-Linux                    10 hrs 11 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               36 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JavaScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-PHP                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Go                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Wallz/Wallz/main/assets/bar_graph.png)
-
-
- Last Updated on 30/01/2026 18:49:19 UTC
-<!--END_SECTION:waka-->
+<p align="center">
+<a href="https://discord.gg/ygGEUMVb5d" target="_blank"><img src="https://img.shields.io/discord/691934366980505611?logo=discord"></a></a><br>
+<a href="https://discord.gg/ygGEUMVb5d" target="_blank"><img src="https://discord.c99.nl/widget/theme-2/252624582593347586.png"></a><br>
+  <a href="https://www.twitch.tv/1WallzRJ" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/ygGEUMVb5d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</p>  
+<hr>  
+<div align="center">  
+  
+![Code Badge](https://img.shields.io/badge/Project-L2J-red.svg?logo=github&logoColor=white)
+![Code Badge](https://img.shields.io/badge/MySQL-_5.7-orange.svg?logo=mysql&logoColor=white)
+![Code Badge](https://img.shields.io/badge/Java-_8-blue.svg?logo=java&logoColor=white)
+![Code Badge](https://img.shields.io/badge/Java-_17-blue.svg?logo=java&logoColor=white)
+![Code Badge](https://img.shields.io/badge/Java-_22-blue.svg?logo=java&logoColor=white)
+![Code Badge](https://img.shields.io/badge/Java-_24-blue.svg?logo=java&logoColor=white)
+  
+  <p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=50 height=50>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=50 height=50>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=50 height=50>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=50 height=50>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50 height=50>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50 height=50>
+</p>
+<hr>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Wallz&theme=onedark)](https://github.com/Wallz)
+</div> 
