@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://discord.gg/ygGEUMVb5d" target="_blank"><img src="https://discord.c99.nl/widget/theme-2/252624582593347586.png"></a><br>
   <a href="https://www.twitch.tv/1WallzRJ" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/ygGEUMVb5d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a><br>
 <a href="https://discord.gg/ygGEUMVb5d" target="_blank"><img src="https://img.shields.io/discord/691934366980505611?style=for-the-badge&logo=discord&logoColor=white&badge"></a></a><br>
 </p>  
 <hr>  
