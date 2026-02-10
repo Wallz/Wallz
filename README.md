@@ -15,17 +15,21 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" width=50 height=50>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width=50 height=50>
 ### ⚙️ &nbsp;GitHub Stats
-https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D
+
+<details> 
 -->
+
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
 <div align="center">
   <a href="https://github.com/Wallz">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=800" />
     <img  src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Wallz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Wallz&layout=compact&langs_count=50&theme=dark&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=800" />
     <img alt="Wallz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Wallz&bg_color=0d1117&color=F8D866&line=808080&point=FFFFFF&hide_border=false" /></a>
 
 </div>
+</details>
 
 <hr>
 <h1 align="center">BINANCE ID: <bold>336 016 462</bold></h1>
@@ -38,6 +42,10 @@ https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&include_a
 <hr>  
 <div align="center">  
 
+
+  
+   
+<h3>👨‍💻 Programming Languages</h3> 
 
 ![Code Badge](https://img.shields.io/badge/Project-L2J-red.svg?logo=github&logoColor=white)
 <br>
@@ -53,8 +61,9 @@ https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&include_a
 ![Code Badge](https://img.shields.io/badge/Java-_24-blue.svg?logo=java&logoColor=white)
 
 
-  
+
   <p align="center">
+    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=50 height=50>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=50 height=50>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=50 height=50>
