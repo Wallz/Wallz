@@ -21,7 +21,7 @@ https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&include_a
 <div align="center">
   <a href="https://github.com/Wallz">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wallz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=800" />
+    <img height="300em" src="https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=800" />
     <img height="300em" width="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallz&layout=compact&langs_count=50&theme=dark&include_all_commits=true&count_private=true"/>
 
 </div>
