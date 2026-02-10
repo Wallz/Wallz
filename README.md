@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/Wallz">
-    <img  src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Wallz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Wallz&layout=compact&langs_count=50&theme=dark&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=800" />
-    <img alt="Wallz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Wallz&bg_color=0d1117&color=F8D866&line=808080&point=FFFFFF&hide_border=false" /></a>
+    <img  src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Wallz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=false"/>
+    <img  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Wallz&layout=compact&langs_count=50&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=false"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=800&hide_border=false" />
+    <img alt="Wallz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Wallz&bg_color=000000&color=F8D866&line=808080&point=FFFFFF&area_color=ffffff&area=true&radius=10&hide_border=false" /></a>
 
 </div>
 </details>
