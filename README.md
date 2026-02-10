@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" width=50 height=50>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width=50 height=50>
 ### ⚙️ &nbsp;GitHub Stats
+https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D
 -->
 
 <div align="center">
   <a href="https://github.com/Wallz">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wallz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Wallz&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=800" />
     <img height="300em" width="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallz&layout=compact&langs_count=50&theme=dark&include_all_commits=true&count_private=true"/>
 
 </div>
