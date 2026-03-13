@@ -60,8 +60,6 @@ Here are some ideas to get you started:
 ![Code Badge](https://img.shields.io/badge/Java-_22-blue.svg?logo=java&logoColor=white)
 ![Code Badge](https://img.shields.io/badge/Java-_24-blue.svg?logo=java&logoColor=white)
 
-
-
   <p align="center">
     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=50 height=50>
@@ -72,7 +70,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50 height=50>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50 height=50>
 </p>
-<hr>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wallz&theme=onedark)](https://github.com/Wallz)
 </div> 
